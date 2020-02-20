@@ -34,5 +34,5 @@ var funkyFunction = function() {
 
 yourAnimal()
 add2(4)
-var theFunk() = funkyFunction()
+function theFunk() = funkyFunction()
 theFunk()
