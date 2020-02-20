@@ -37,4 +37,4 @@ add2(4)
 function theFunk() {
   return funkyFunction()
 }
-theFunk
+theFunk()
