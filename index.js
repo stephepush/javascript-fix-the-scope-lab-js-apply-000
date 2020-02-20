@@ -37,3 +37,4 @@ add2(4)
 
 funkyFunction()
 var theFunk = funkyFunction()
+theFunk()
