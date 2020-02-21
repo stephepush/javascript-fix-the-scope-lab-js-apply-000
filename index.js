@@ -37,3 +37,4 @@ add2(4)
 
 
 var theFunk = funkyFunction()()
+//It seems you have to invoke funkyFunction itself as a function...
