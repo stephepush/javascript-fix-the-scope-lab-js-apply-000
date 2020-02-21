@@ -36,5 +36,5 @@ yourAnimal()
 add2(4)
 
 
-var theFunk = funkyFunction()
+funkyFunction()
 theFunk()
